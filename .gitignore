@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+pages/
+out/
+*.epub
+*.jsonl
